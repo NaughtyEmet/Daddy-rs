@@ -1,4 +1,5 @@
 # A gooner material
+![Description](images/juice.png)
 
 > All rights to the content belong to RedGIFs, the original rights holder.
 
