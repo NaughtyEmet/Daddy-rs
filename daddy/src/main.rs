@@ -14,7 +14,7 @@ use clap::{Subcommand, Parser};
 
 use rand::Rng;
 
-use crate::media::fetch_contents;
+use media::fetch_contents;
 const API_URL: &'static str = "https://api.redgifs.com";
 
 
